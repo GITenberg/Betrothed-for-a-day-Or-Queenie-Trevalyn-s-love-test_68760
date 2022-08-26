@@ -1,0 +1,30 @@
+_repo: Betrothed-for-a-day-Or-Queenie-Trevalyn-s-love-test_68760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Libbey, Laura Jean
+    alias: Stillwell, Laura Jean Libbey
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '5201'
+    url: http://www.gutenberg.org/2009/agents/5201
+    wikipedia: https://en.wikipedia.org/wiki/Laura_Jean_Libbey
+description: ''
+gutenberg_issued: '2022-08-16'
+identifiers:
+  gutenberg: '68760'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:647722
+pgterms:marc905: 20210510102025libbey
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Betrothed for a day: Or, Queenie Trevalyn''s love test'
+url: http://www.gutenberg.org/ebooks/68760
